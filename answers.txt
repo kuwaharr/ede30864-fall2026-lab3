@@ -13,3 +13,9 @@ Their responsiblities are guiding ceremonies, removing blockers, and fostering c
 2. Daily Scrum: A brief, daily check-in where members describe their own tasks to the team.
 3. Sprint Review: Held at the end of the cycle. The team shows their work from the cycle to stakeholders and gets feedbacks.
 
+(d)
+Epic: One large work that contains other issues and usually takes multiple sprints.
+Story: Requirement expressed from the perspective of the user.
+Bug: This represents a problem that needs to be fixed.
+Task: Technical admnistrative work needed to support project progress.
+
