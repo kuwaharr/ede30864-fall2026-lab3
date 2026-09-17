@@ -8,3 +8,8 @@ Cons: Teams build documentations throughout a project, which means they only hav
 A Scrum Master is a facilitator and coach for a team and support them to go through a project.
 Their responsiblities are guiding ceremonies, removing blockers, and fostering collaboration.
 
+(c)
+1. Spring Planning: Held at the start of the cycle. The team defines the goal and select backlog they are going to work on.
+2. Daily Scrum: A brief, daily check-in where members describe their own tasks to the team.
+3. Sprint Review: Held at the end of the cycle. The team shows their work from the cycle to stakeholders and gets feedbacks.
+
