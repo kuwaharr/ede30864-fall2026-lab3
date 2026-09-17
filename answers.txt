@@ -1,0 +1,5 @@
+(a)
+Pros: Teams can respond to the customer needs and changes in the marketplace quickly.
+      Teams can get feedback on each small changes created and integrate it into future plan.
+Cons: Teams build documentations throughout a project, which means they only have limited documentations in the beginning.
+      Teams cannot predict cost, time and recourses required at the beginning.
